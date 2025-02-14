@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Air Pollution at Jakarta</description>
+   <name>AssertJSONSchema</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>715fb69b-658e-429d-a457-3b23c3846919</testCaseGuid>
+</TestCaseEntity>

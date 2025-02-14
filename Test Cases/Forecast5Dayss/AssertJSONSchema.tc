@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Forecast Weather 5 Days</description>
+   <name>AssertJSONSchema</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23f15085-032b-4c2b-a650-a185103db2ca</testCaseGuid>
+</TestCaseEntity>

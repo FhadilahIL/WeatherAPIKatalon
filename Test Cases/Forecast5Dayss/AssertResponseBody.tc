@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Forecast Weather 5 Days</description>
+   <name>AssertResponseBody</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1618fd1-3144-4c2a-81a1-1f4ca97c6ec1</testCaseGuid>
+</TestCaseEntity>

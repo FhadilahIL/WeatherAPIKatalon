@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Air Pollution at Jakarta</description>
+   <name>AssertLatLon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>817d3804-25f7-4b93-a841-e2afcbf7dc40</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>API Key</description>
+      <initValue>'e8eea32f9aff65b85781d9cf80402da9'</initValue>
+      <name>app_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>City Name from City List JSON in Weather Documentation</description>
+      <initValue>'Jakarta'</initValue>
+      <name>city_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Latitude for Jakarta from Response Forecast API</description>
+      <initValue>-6.2146</initValue>
+      <name>latitude</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Longitude for Jakarta from Response Forecast API</description>
+      <initValue>106.8451</initValue>
+      <name>longitude</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Metric = Use Temperature with Celcius (Optional)</description>
+      <initValue>'metric'</initValue>
+      <name>units</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

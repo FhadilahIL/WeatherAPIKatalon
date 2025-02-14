@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Forecast Weather 5 Days</description>
+   <name>AssertCityValue</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f6d29fd-e44a-49eb-99e8-bc56a723316f</testCaseGuid>
+</TestCaseEntity>
